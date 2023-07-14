@@ -4,3 +4,10 @@
 > 
 > Comming soon.
 
+## Model Checkpoint and Demo
+
+### Many to English checkpoint
+
+- base model: [🤗 HF repo](https://huggingface.co/Python/ACROSS-m2o-eng-base)
+
+- small model: [🤗 HF repo](https://huggingface.co/Python/ACROSS-m2o-eng-base)
